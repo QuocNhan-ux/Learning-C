@@ -6,7 +6,8 @@ int main()
 {
 
   cout << "First Test" << endl;
-  cout << "Test";
+  cout << "Test remove directory";
+
 
   return 0;
 
